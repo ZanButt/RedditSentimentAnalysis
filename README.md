@@ -1,2 +1,2 @@
-# RedditSentimentAnalysis
-Using a reddit api wrapper to retrieve data from subreddits on reddit, and perform sentiment analysis in the comments.
+# Reddit Sentiment Analysis
+Using a reddit api wrapper (PRAW) to retrieve data from subreddits, as well as use transformers from Hugging face to perform sentiment analysis on specific comments in a particular subreddit chosen (TESLA). 
